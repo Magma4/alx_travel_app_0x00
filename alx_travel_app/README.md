@@ -8,7 +8,7 @@ Instructions
 
 Duplicate Project:
 
-Duplicate the project alx_travel_app to alx_travel_app_0x00
+Duplicate the project alx_travel_app_0x00 to alx_travel_app_0x00_0x00
 Create Models:
 
 In listings/models.py, define Listing, Booking, and Review models based on the provided structure.
@@ -24,6 +24,6 @@ Run Seed Command:
 Test the seeder by running the command to populate the database with sample data.
 Repo:
 
-GitHub repository: alx_travel_app_0x00
-Directory: alx_travel_app
+GitHub repository: alx_travel_app_0x00_0x00
+Directory: alx_travel_app_0x00
 File: listings/models.py, listings/serializers.py, listings/management/commands/seed.py, README.md
